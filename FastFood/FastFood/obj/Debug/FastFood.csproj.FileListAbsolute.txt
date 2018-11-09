@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\Asus\source\repos\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\Asus\source\repos\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.Shared.frmMain.resources
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.Forms.UC.UC_Main.resources
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.Forms.UC.UC_MainPage.resources
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.Forms.UC.UC_Users.resources
+C:\Users\Asus\source\repos\FastFood\FastFood\obj\Debug\FastFood.Forms.UC.UC_Menu.resources
